@@ -5,7 +5,7 @@
 <a href="https://github.com/Rodrigo635/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodrigo635&layout=compact&langs_count=8&card_width=320" />
 </a>
-</br>
+
 - 😄 Pronouns: he/him
 - 🌱 I’m currently learning more about flutter
 - 🔭 I’m currently working on my personal project (it's an app)
